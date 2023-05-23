@@ -1,2 +1,9 @@
-# DatabaseDesign_Online-Investment-Site
-This database design project aims to create an efficient and organized database schema for a company's inventory management system. It includes the design of tables, relationships, and constraints that ensure data accuracy and consistency. The project also considers scalability and security in the implementation of the database.
+This project focuses on designing a well-structured and efficient database schema for an inventory management system in a company. It encompasses the creation of tables, relationships, and constraints that guarantee accurate and consistent data. The design also takes into account scalability and security to ensure a robust implementation of the database.
+
+The objective of the Online Bank & Investment Site project is to develop a user-friendly platform for managing investments and finances. This particular database design project aims to provide a schema that enables the effective storage and retrieval of data related to user registration, account management, transaction history, and market data.
+
+To accomplish this, a relational database management system (RDBMS) is employed to store and organize the data. The ER model illustrates the various entities and relationships involved, including Admin, Users, Account, Credit, Real estate, Forex, Stocks, and Crypto. Each entity is defined by its attributes and relationships with other entities, resulting in a comprehensive database schema.
+
+The accompanying SQL queries are provided to create the necessary tables and establish relationships between them. These queries encompass the creation of tables for Admin, Users, Account, Credit, Real estate, Forex, Stocks, and Crypto. Furthermore, the queries define primary keys, foreign keys, and multi-value attributes to ensure data integrity and consistency.
+
+The primary aim of this project is to offer a comprehensive and efficient database schema that supports the functionality of the Online Bank & Investment Site. Developers, database administrators, and anyone interested in building an online financial management platform will find this project valuable. It is an open-source project available on GitHub, encouraging collaboration and contributions from the community.
